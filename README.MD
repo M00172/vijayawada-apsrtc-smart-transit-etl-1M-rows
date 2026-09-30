@@ -1,6 +1,6 @@
-# Vijayawada APSRTC Smart Transit & UPI Pipeline - 1M Rows MySQL Project
+# Vijayawada APSRTC Smart Transit & UPI ETL Pipeline - 1M Rows MySQL Project
 
-Vijayawada city buses (PNBS, Benz Circle, Gannavaram,bhimavaram,Hyderabad,) UPI ticketing simulation.
+Vijayawada city buses (PNBS, Benz Circle, Gannavaram, Bhimavaram, Hyderabad) UPI ticketing simulation.
 
 **What I Did:**
 - 1M rows ETL with Python + LOAD DATA
@@ -15,9 +15,13 @@ Vijayawada city buses (PNBS, Benz Circle, Gannavaram,bhimavaram,Hyderabad,) UPI 
 
 **Run:** Create Tables -> Load CSV -> Create Triggers -> Run Queries
 
+## 📂 Files
+- `vijayawada_apsrtc_etl_project.sql` - Full ETL Code
+- `sample_tickets.csv` - Sample Data
+
 ## Screenshots
 
-![1M Count](count_1M.png)
-![Partition](partition.png)
-![Join](join.png)
-![Procedure](procedure.png)
+![1M Count](screenshots/count_1M.png)
+![Partition](screenshots/partition.png)
+![Join](screenshots/join.png)
+![Procedure](screenshots/procedure.png)
