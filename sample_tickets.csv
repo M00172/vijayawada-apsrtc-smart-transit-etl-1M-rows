@@ -1,0 +1,100 @@
+ticket_id,route,source,destination,travel_date,crowd_count,gps_delay_min,upi_status
+1,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,47,21,FAILED
+2,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,39,0,SUCCESS
+3,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,59,5,SUCCESS
+4,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,31,17,SUCCESS
+5,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,6,23,SUCCESS
+6,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,7,25,SUCCESS
+7,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,39,11,SUCCESS
+8,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,46,0,FAILED
+9,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,23,13,SUCCESS
+10,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,53,9,FAILED
+11,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,15,7,FAILED
+12,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,60,8,SUCCESS
+13,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,32,8,SUCCESS
+14,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,44,19,SUCCESS
+15,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,54,6,FAILED
+16,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,60,11,SUCCESS
+17,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,6,3,FAILED
+18,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,7,5,FAILED
+19,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,28,14,SUCCESS
+20,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,43,14,SUCCESS
+21,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,5,10,FAILED
+22,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,17,24,FAILED
+23,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,43,6,SUCCESS
+24,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,6,9,SUCCESS
+25,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,23,28,FAILED
+26,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,42,5,SUCCESS
+27,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,53,26,SUCCESS
+28,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,24,27,SUCCESS
+29,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,4,11,SUCCESS
+30,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,3,14,FAILED
+31,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,50,19,SUCCESS
+32,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,1,2,FAILED
+33,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,4,20,SUCCESS
+34,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,15,26,SUCCESS
+35,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,58,15,FAILED
+36,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,46,24,SUCCESS
+37,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,23,9,SUCCESS
+38,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,42,1,SUCCESS
+39,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,48,10,FAILED
+40,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,41,26,SUCCESS
+41,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,18,8,SUCCESS
+42,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,43,20,SUCCESS
+43,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,10,18,FAILED
+44,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,33,30,FAILED
+45,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,56,27,SUCCESS
+46,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,31,27,SUCCESS
+47,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,34,27,SUCCESS
+48,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,41,2,SUCCESS
+49,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,53,4,SUCCESS
+50,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,59,6,SUCCESS
+51,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,49,7,SUCCESS
+52,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,36,28,FAILED
+53,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,31,16,FAILED
+54,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,20,26,SUCCESS
+55,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,7,12,SUCCESS
+56,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,26,27,SUCCESS
+57,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,35,23,SUCCESS
+58,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,45,1,FAILED
+59,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,38,0,SUCCESS
+60,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,51,22,FAILED
+61,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,37,17,SUCCESS
+62,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,32,27,SUCCESS
+63,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,3,3,FAILED
+64,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,30,28,FAILED
+65,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,19,15,SUCCESS
+66,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,28,30,SUCCESS
+67,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,7,23,SUCCESS
+68,PNBS - Autonagar,PNBS , Autonagar,28-10-2026,53,5,SUCCESS
+69,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,35,5,FAILED
+70,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,52,26,SUCCESS
+71,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,36,27,FAILED
+72,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,60,4,FAILED
+73,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,9,13,SUCCESS
+74,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,11,12,SUCCESS
+75,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,7,20,SUCCESS
+76,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,56,4,SUCCESS
+77,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,31,19,SUCCESS
+78,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,36,1,SUCCESS
+79,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,20,4,FAILED
+80,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,56,28,FAILED
+81,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,50,7,FAILED
+82,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,58,22,FAILED
+83,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,27,21,FAILED
+84,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,20,10,FAILED
+85,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,8,28,SUCCESS
+86,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,44,30,FAILED
+87,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,2,30,SUCCESS
+88,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,23,25,SUCCESS
+89,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,6,24,SUCCESS
+90,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,56,18,SUCCESS
+91,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,30,15,SUCCESS
+92,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,51,25,SUCCESS
+93,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,15,28,FAILED
+94,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,31,0,SUCCESS
+95,Benz circle - Ganavaram,Benz circle , Ganavaram,28-10-2026,7,1,FAILED
+96,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,44,24,SUCCESS
+97,Vijayawada - Bhimavaram,Vijayawada , Bhimavaram,28-10-2026,21,29,SUCCESS
+98,Vijayawada - Hyderabad,Vijayawada , Hyderabad,28-10-2026,58,11,SUCCESS
+99,Vijayawada - Guntur,Vijayawada , Guntur,28-10-2026,24,16,SUCCESS
