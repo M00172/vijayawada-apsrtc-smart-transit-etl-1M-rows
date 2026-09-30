@@ -14,3 +14,10 @@ Vijayawada city buses (PNBS, Benz Circle, Gannavaram,bhimavaram,Hyderabad,) UPI 
 **Stack:** MySQL 8.0
 
 **Run:** Create Tables -> Load CSV -> Create Triggers -> Run Queries
+
+## Screenshots
+
+![1M Count](count_1M.png)
+![Partition](partition.png)
+![Join](join.png)
+![Procedure](procedure.png)
